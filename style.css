@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: blueviolet;
+    border-block: 80px;
+  }
+  
+  .converter-container1 {
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+  }
+  
+  button {
+    margin-top: 10px;
+    cursor: pointer;
+    
+  }
+  
